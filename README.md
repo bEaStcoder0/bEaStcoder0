@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Arman Maan</h1>
+<h1 align="center">Hi , I'm Arman Maan</h1>
 <h3 align="center">An aspiring full stack developer from Pune</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beastcoder0&label=Profile%20views&color=0e75b6&style=flat" alt="beastcoder0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beastcoder0" alt="beastcoder0" /></a> </p>
+
 
 - 🔭 I’m currently working on **Machine Learning Models**
 
